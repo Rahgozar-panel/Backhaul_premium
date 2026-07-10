@@ -3,7 +3,7 @@
 installing
 
 ```bash
-mkdir backhaul-core | cd backhaul-core | wget https://raw.githubusercontent.com/Rahgozar-panel/Backhaul_premium/refs/heads/main/backhaul_premium
+mkdir backhaul-core | curl -l https://raw.githubusercontent.com/Rahgozar-panel/Backhaul_premium/refs/heads/main/backhaul_premium -o /root/backhaul-core/backhaul_premium
 ```
 
 ```bash
