@@ -10,6 +10,10 @@ mkdir backhaul-core | curl -l https://raw.githubusercontent.com/Rahgozar-panel/B
 wget https://raw.githubusercontent.com/Rahgozar-panel/Backhaul_premium/refs/heads/main/backhaul.sh
 ```
 
+```bash
+bash backhaul.sh
+```
+
 having some spofpofpof
 
 
